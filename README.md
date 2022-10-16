@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **AWS/Docker**
 
-- 👨‍💻 All of my projects are available at [https://sankalp-7.github.io/portfolio/](https://sankalp-7.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [My Projects](https://sankalp-7.github.io/portfolio/](https://github.com/sankalp-7?tab=repositories)
 
 - 💬 Ask me about **Python, Django, Backend**
 
 - 📫 How to reach me **sankalpsodagum7@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1ZoYghEBvaeVSr0ZtP4zjyRWdr4xfG_qt/view?usp=sharing)
+- 📄 Know about my experiences [My Experiences](https://drive.google.com/file/d/1ZoYghEBvaeVSr0ZtP4zjyRWdr4xfG_qt/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I Am Funny**
 
