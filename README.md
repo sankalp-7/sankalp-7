@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **AWS/Docker**
 
 - 👨‍💻 All of my projects are available at [https://sankalp-7.github.io/portfolio/](https://sankalp-7.github.io/portfolio/)
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, Backend**
 
 - 📫 How to reach me **sankalpsodagum7@gmail.com**
 
