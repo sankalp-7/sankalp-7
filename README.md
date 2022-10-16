@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **AWS/Docker**
 
-- 👨‍💻 All of my projects are available at [My Projects](https://sankalp-7.github.io/portfolio/](https://github.com/sankalp-7?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/sankalp-7?tab=repositories)
 
 - 💬 Ask me about **Python, Django, Backend**
 
