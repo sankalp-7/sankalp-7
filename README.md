@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sankalpsodagum7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZoYghEBvaeVSr0ZtP4zjyRWdr4xfG_qt/view?usp=sharing]([https://drive.google.com/file/d/1Xu_SSj_pbO6TL1bsvkp09DQHHqUniN8X/view?usp=sharing](https://drive.google.com/file/d/1ZoYghEBvaeVSr0ZtP4zjyRWdr4xfG_qt/view?usp=sharing))
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1ZoYghEBvaeVSr0ZtP4zjyRWdr4xfG_qt/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I Am Funny**
 
