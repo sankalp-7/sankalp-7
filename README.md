@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/dunphy"><img src="https://api.daily.dev/devcards/fbc80c1f235d4b5ba7b8787dc8542212.png?r=vdn" width="400" alt="sankalp's Dev Card"/></a>
+
 <h1 align="center">Hi 👋, I'm Sankalp</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalp-7&show_icons=true&locale=en" alt="sankalp-7" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalp-7&" alt="sankalp-7" /></p>
+<a href="https://app.daily.dev/dunphy"><img src="https://api.daily.dev/devcards/fbc80c1f235d4b5ba7b8787dc8542212.png?r=vdn" width="400" alt="sankalp's Dev Card"/></a>
