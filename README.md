@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp-7" alt="sankalp-7" /></a> </p>
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **AWS**
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [My Experiences](https://drive.google.com/file/d/1ZoYghEBvaeVSr0ZtP4zjyRWdr4xfG_qt/view?usp=sharing)
 
-- ⚡ Fun fact **I Think I Am Funny**
+- ⚡ Fun fact **I Think I Understand How Computers Work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
