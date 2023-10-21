@@ -1,12 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Sankalp</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-
+<h3 align="center">Software Developer</h3>
+<div style="display:flex; flex-direction:column;">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="600">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+</div>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp-7&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp-7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp-7" alt="sankalp-7" /></a> </p>
 
-- 🔭 I’m currently working on **AWS**
+- 🔭 I’m currently working on **DevOps**
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
@@ -14,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/sankalp-7?tab=repositories)
 
-- 💬 Ask me about **Python, Django, Backend**
+- 💬 Ask me about **Python, Django, Cloud**
 
 - 📫 How to reach me **sankalpsodagum7@gmail.com**
 
@@ -24,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sankalp7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp sodagum" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sankalp7" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"> alt="sankalp sodagum" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,4 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalp-7&show_icons=true&locale=en" alt="sankalp-7" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalp-7&" alt="sankalp-7" /></p>
-<a href="https://app.daily.dev/dunphy"><img src="https://api.daily.dev/devcards/fbc80c1f235d4b5ba7b8787dc8542212.png?r=vdn" width="400" alt="sankalp's Dev Card"/></a>
+<img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="160" />
