@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sankalp7" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"> alt="sankalp sodagum" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sankalp7" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="sankalp sodagum" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
