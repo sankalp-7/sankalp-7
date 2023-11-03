@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer</h3>
 <div style="display:flex; flex-direction:column;">
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="600">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+ 
 </div>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp-7&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp-7" /> </p>
