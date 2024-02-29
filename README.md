@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Terraform**
 
-- 🤝 I’m looking for help with **Jenkins/Terraform**
+- 🤝 I’m looking for help with **Jenkins/Kubernetes**
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/sankalp-7?tab=repositories)
 
