@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sankalp</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer Intern At IBM</h3>
 <div style="display:flex; flex-direction:column;">
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="600">
  
@@ -12,17 +12,17 @@
 
 - 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 🌱 I’m currently learning **Terraform**
 
-- 🤝 I’m looking for help with **AWS/Docker**
+- 🤝 I’m looking for help with **Jenkins/Terraform**
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/sankalp-7?tab=repositories)
 
-- 💬 Ask me about **Python, Django, Cloud**
+- 💬 Ask me about **Python, Django, Cloud, Devops**
 
 - 📫 How to reach me **sankalpsodagum7@gmail.com**
 
-- 📄 Know about my experiences [My Experiences](https://drive.google.com/file/d/12LhvmjjjsMGU87sISvMXlMTqJBaG3XdF/view?usp=sharing)
+- 📄 Know about my experiences [My Experiences](https://sweresume.s3.amazonaws.com/resume/sankalp's+resume.pdf)
 
 - ⚡ Fun fact **I Think I Understand How Computers Work**
 
